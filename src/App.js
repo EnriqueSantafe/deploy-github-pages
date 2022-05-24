@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Web desplegada en Github Pages.
+          Web estática desplegada en Github Pages.
         </p>
         <a
           className="App-link"
